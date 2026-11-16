@@ -1,0 +1,10 @@
+{
+  "description": "A project setup utility that verifies imported projects and prepares deployment and preview configurations, helping developers launch reliable Figma Make apps.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
